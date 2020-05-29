@@ -6,4 +6,5 @@ type NodeDetailsDTO struct {
 	Longitude       float64 `json:"longitude"`
 	HasCrossing     bool    `json:"hasCrossing"`
 	HasTrafficLight bool    `json:"hasTrafficLight"`
+
 }
